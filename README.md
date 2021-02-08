@@ -10,7 +10,7 @@ I'm a Computer Science sophomore at the SRM Institute of Science & Tech. at Chen
 
 - 🔭 I’m currently working on ML, Deep Learning, Computer Vision. I have recently also dabbled a little in generative modelling (GANs)!
 
-- 🌱 I’m currently learning Flutter to expand my app development skills, NLP (because it seems so interesting!) and also some data science!
+- 🌱 I’m currently learning Flutter to expand my app development skills, refining my Deep Learning concepts, and opening up to the world of NLP (because it seems so interesting!)
 
 - 👯 I’m looking to collaborate on projects, hackathon and novel research ideas!
 
